@@ -1,0 +1,29 @@
+9
+
+* Using radio buttons to make it clear as to which ruler is selected
+* Save/restore state of ruler in Journal
+* Disabling sharing
+
+8
+
+* added message explaining 'short' ruler on XO (#2738)
+
+7
+
+* fixed scaling problem on F11
+
+6
+
+* fixed antialiasing in show_angles
+
+5
+
+* dpi support
+* new toolbar support
+* save dpi to Journal
+
+4
+
+* look up dpi from xdpyinfo
+* eliminate offset on non-OLPC-XO computers
+
